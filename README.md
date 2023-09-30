@@ -5,4 +5,5 @@
 * Be sure that you put your token at the end of the code
 ## Commands prefix is >
 >tran   translates the replied message to english
+>
 >trad   translates the replied message to spanish
