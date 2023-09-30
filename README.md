@@ -4,6 +4,6 @@
 * Be sure that python is installed and you checked add pip to path
 * Be sure that you put your token at the end of the code
 ## Commands prefix is >
->tran   translates the replied message to english
+>tran   (translates the replied message to english)
 >
->trad   translates the replied message to spanish
+>trad   (translates the replied message to spanish)
