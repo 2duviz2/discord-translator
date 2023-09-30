@@ -1,10 +1,5 @@
 import discord #Imports the discord module.
-import random
 from discord.ext import commands #Imports discord extensions.
-import requests
-import json
-import asyncio
-import os
 from deep_translator import GoogleTranslator
 
 
