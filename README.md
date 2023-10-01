@@ -1,5 +1,6 @@
 # Discord translator, the bot that makes everything easier
 # Do you want to have it 24/7? [HERE](https://discord.com/oauth2/authorize?client_id=1157690732203737088&permissions=67584&scope=bot)
+It was made for [this server](https://discord.gg/timebox)
 ## How to use?
 * Install all the libraries of main.py
 * Be sure that python is installed and you checked add pip to path
